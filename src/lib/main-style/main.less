@@ -1,0 +1,34 @@
+@import 'variables.less';
+@import 'mixins.less';
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: '';
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+.page {
+  &__header {
+    /**/
+  }
+  &__review {
+    /**/
+  }
+}
+/*------------------start header-------------------*/
+@import '../header/header.less';
+/*------------------end header---------------------*/
+/*------------------start logo-------------------*/
+@import '../logo/logo.less';
+/*------------------end logo---------------------*/
+/*------------------start review-------------------*/
+@import '../review/review.less';
+/*------------------end review---------------------*/
+/*------------------start date-------------------*/
+@import '../date/date.less';
+/*------------------end date---------------------*/

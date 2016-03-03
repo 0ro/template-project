@@ -1,0 +1,15 @@
+{
+  "folders":
+  [
+    {
+      "path": "."
+    }
+  ],
+  "font_size": 12,
+  "draw_white_space": "all",
+  "translate_tabs_to_spaces": false,
+  "tab_size": 2,
+  "livestyle": {
+        "globals": ["./src/less/variables.less", "/src/less/mixins.less"]
+    }
+}

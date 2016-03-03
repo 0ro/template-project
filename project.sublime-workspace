@@ -1,0 +1,2480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"impo",
+				"import	@import"
+			],
+			[
+				"imp",
+				"import	@import"
+			],
+			[
+				"hello",
+				"hello	@import"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"r",
+				"require"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"h",
+				"h	height"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"se",
+				"service.jpg	w:312 h:562"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"category",
+				"category__img"
+			],
+			[
+				"bgp",
+				"bgp	background-position: ${1:0} ${2:0};"
+			],
+			[
+				"0",
+				"000"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"p",
+				"placeholder	(main.css)"
+			],
+			[
+				"booking",
+				"booking_content"
+			],
+			[
+				"button_theme",
+				"button_theme_flat	(main.css)"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"mat",
+				"materialize	(materialize.css)"
+			],
+			[
+				"mate",
+				"materialize	(materialize.min.js)"
+			],
+			[
+				"items-r",
+				"items-row-right"
+			],
+			[
+				"items-row",
+				"items-row-left"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"d",
+				"d	display: ${1:block};"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"footer",
+				"footer__contacts"
+			],
+			[
+				"categories__",
+				"categories__img"
+			],
+			[
+				"hea",
+				"header__form	(index.html)"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"po",
+				"portfolio-inner-big.jpg	w:490 h:330"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"ulr",
+				"url()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"bs",
+				"bs3-col	bs3-col"
+			],
+			[
+				"whit",
+				"white-space"
+			],
+			[
+				"icon",
+				"icon-search"
+			],
+			[
+				"request",
+				"request__slogan"
+			],
+			[
+				"col",
+				"columns__item"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"click",
+				"click"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"dialo",
+				"dialog_obj〔variable〕"
+			],
+			[
+				"ta",
+				"talks"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"curs",
+				"cursor: 〔property〕"
+			],
+			[
+				"tal",
+				"talker"
+			],
+			[
+				"dia",
+				"dialogs"
+			],
+			[
+				"talk",
+				"talk-tabs.html"
+			],
+			[
+				"a",
+				"area"
+			],
+			[
+				"pro",
+				"profile.html"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"ro",
+				"router"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"SE",
+				"SENDED"
+			],
+			[
+				"is_",
+				"is_for_admin"
+			],
+			[
+				"U",
+				"USER_ADMIN"
+			],
+			[
+				"M",
+				"MESS"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"area",
+				"areas"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"are",
+				"areaMenu"
+			],
+			[
+				"genera",
+				"generateAuthKey〔function〕"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"P",
+				"PROFILE"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"reg",
+				"regData"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"to",
+				"token_raw"
+			],
+			[
+				"test",
+				"test_val"
+			],
+			[
+				"tok",
+				"token_obj〔variable〕"
+			],
+			[
+				"ex",
+				"expire"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"men",
+				"menuItems"
+			],
+			[
+				"fin",
+				"findOne〔function〕"
+			],
+			[
+				"TY",
+				"TYPE_LIST"
+			],
+			[
+				"T",
+				"TYPE_LIST〔constant〕"
+			],
+			[
+				"co",
+				"components"
+			],
+			[
+				"$p",
+				"$property〔variable〕"
+			],
+			[
+				"price",
+				"priceBegin"
+			],
+			[
+				"pr",
+				"priceBegin〔variable〕"
+			],
+			[
+				"Gro",
+				"GroupProduct"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"det",
+				"detachBehaviors〔function〕"
+			],
+			[
+				"POS",
+				"POS_BEGIN〔constant〕"
+			],
+			[
+				"y",
+				"yii/"
+			],
+			[
+				"arrake",
+				"array_keys"
+			],
+			[
+				"con",
+				"console	var"
+			],
+			[
+				"print",
+				"println!	println! …"
+			],
+			[
+				"fo",
+				"for	for … { … }"
+			],
+			[
+				"filepu",
+				"file_put_contents〔function〕"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"_",
+				"_properties"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.jade",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/lib/header/header.jade",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/lib/main-style/main.css",
+			"settings":
+			{
+				"buffer_size": 680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/den/.config/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 13198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".header {\n  &__logo {\n    \n  }\n  &__line {\n    \n  }\n}",
+			"file": "src/lib/header/header.less",
+			"file_size": 64,
+			"file_write_time": 131014834724872585,
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/lib/logo/logo.less",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var gulp = require('gulp'),\n    watch = require('gulp-watch')\n    csscomb = require('gulp-csscomb'),\n    postcss = require('gulp-postcss'),\n    less = require('gulp-less'),\n    jade = require('gulp-jade'),\n    wrap = require('gulp-wrap-amd'),\n    sourcemaps = require('gulp-sourcemaps'),\n    autoprefixer = require('autoprefixer'),\n    cssmin = require('gulp-cssmin'),\n    uglify = require('gulp-uglify'),\n    rigger = require('gulp-rigger'),\n    imagemin = require('gulp-imagemin'),\n    pngquant = require('imagemin-pngquant'),\n    browserSync = require('browser-sync'),\n    reload = browserSync.reload,\n    concat = require('gulp-concat-util');\n\nvar path = {\n  build: {\n    html: 'build/',\n    js: 'build/js/',\n    css: 'build/css/',\n    img: 'build/img/',\n    fonts: 'build/fonts/'\n  },\n  src: {\n    html: 'src/*.html',\n    js: 'src/js/main.js',\n    style: 'src/style/main.scss',\n    img: 'src/img/**/*.*',\n    fonts: 'src/fonts/**/*.*'\n  },\n  watch: {\n    html: 'src/**/*.html',\n    js: 'src/js/**/*.js',\n    style: 'src/style/**/*.scss',\n    img: 'src/img/**/*.*',\n    fonts: 'src/fonts/**/*.*'\n  },\n  clean: './build'\n};\n\ngulp.task('webserver', function () {\n  browserSync({\n    server: {\n        baseDir: \"./build\"\n    },\n    tunnel: true,\n    host: 'localhost',\n    port: 8080\n  });\n});\n\ngulp.task('jade', function() {\n  gulp.src('./src/*.jade')\n    .pipe(jade())\n    .pipe(gulp.dest('./build/'))\n    .pipe(reload({stream: true}));\n});\n\nlsgulp.task('less', function() {\n  gulp.src('src/**/*.less')\n    .pipe(sourcemaps.init())\n    .pipe(less())\n    .pipe(sourcemaps.write('./maps'))\n    .pipe(gulp.dest('src/css/'))\n    .pipe(reload({stream: true}));\n})\n\ngulp.task('css', function(){\n  gulp.src('src/css/lib/main-style/main.css')\n    .pipe(sourcemaps.init())\n    .pipe(postcss([ autoprefixer({ browsers: ['last 20 versions'] }) ]))\n    // .pipe(csscomb('src/css/config-csscomb.json'))\n    .pipe(concat.header('/* ============================= START <%= file.relative %> ============================= */\\n'))\n    .pipe(concat.footer('\\n/* ============================= END <%= file.relative %> ============================= */\\n'))\n    .pipe(concat('styles.css'))\n    .pipe(sourcemaps.write('.'))\n    .pipe(gulp.dest('./build/css'))\n    .pipe(cssmin())\n    .pipe(concat('styles.min.css'))\n    .pipe(gulp.dest('./build/css'))\n    .pipe(reload({stream: true}));\n})\ngulp.task('img', function () {\n    gulp.src('src/img/**/*.*')\n        .pipe(imagemin({\n          progressive: true,\n          svgoPlugins: [{removeViewBox: false}],\n          use: [pngquant()],\n          interlaced: true\n        }))\n        .pipe(gulp.dest('build/img'))\n        .pipe(reload({stream: true}));\n});\n\ngulp.task('fonts', function() {\n    gulp.src('src/fonts/**/*.*')\n        .pipe(gulp.dest('build/fonts'))\n});\n\ngulp.task('js', function(){\n  return gulp.src('src/js/**/*.js')\n    .pipe(uglify())\n    .pipe(concat('scripts.min.js'))\n    .pipe(gulp.dest('./build/js'))\n    .pipe(reload({stream: true}));\n});\n\ngulp.task('watch', function () {\n  gulp.watch('src/js/**/*.js', ['js']);\n  gulp.watch(['src/**/*.less'], ['less']);\n  gulp.watch('src/css/lib/**/*.css', ['css']);\n  gulp.watch('src/img/**/*.*', ['img']);\n  gulp.watch('src/fonts/**/*.*', ['fonts']);\n  gulp.watch('src/**/*.jade', ['jade']);\n});\n\ngulp.task('default', ['webserver', 'jade', 'less', 'css', 'img', 'fonts', 'js', 'watch']);",
+			"file": "gulpfile.js",
+			"file_size": 3618,
+			"file_write_time": 131014841141832687,
+			"settings":
+			{
+				"buffer_size": 3375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/lib/logo/logo.css",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/php.sublime-build",
+					""
+				],
+				[
+					"Packages/User/time_hello.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/php.sublime-build",
+					""
+				],
+				[
+					"Packages/User/time_hello.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/php.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"setsht",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setsjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsless",
+				"Set Syntax: LESS"
+			],
+			[
+				"setshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"sqf",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"sq",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"sqlf",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"formas",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"formasql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"fors",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"setss",
+				"Set Syntax: SQL"
+			],
+			[
+				"sets",
+				"Set Syntax: PHP"
+			],
+			[
+				"setscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"palist",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/den/job/template-project",
+		"/home/den/job/template-project/node_modules",
+		"/home/den/job/template-project/node_modules/gulp-less",
+		"/home/den/job/template-project/src",
+		"/home/den/job/template-project/src/css",
+		"/home/den/job/template-project/src/css/lib",
+		"/home/den/job/template-project/src/css/lib/logo",
+		"/home/den/job/template-project/src/css/lib/main-style",
+		"/home/den/job/template-project/src/lib",
+		"/home/den/job/template-project/src/lib/header",
+		"/home/den/job/template-project/src/lib/logo",
+		"/home/den/job/template-project/src/lib/main-style",
+		"/home/den/job/template-project/src/lib/review"
+	],
+	"file_history":
+	[
+		"/home/den/job/template-project/node_modules/gulp-less/Changelog.md",
+		"/home/den/job/template-project/build/css/styles.css",
+		"/home/den/job/template-project/src/lib/review/review.less",
+		"/home/den/job/template-project/src/lib/logo/logo.less",
+		"/home/den/job/template-project/src/lib/date/date.less",
+		"/home/den/job/template-project/src/lib/header/header.less",
+		"/home/den/job/template-project/src/lib/main-style/main.less",
+		"/home/den/job/template-project/src/lib/logo/logo.jade",
+		"/home/den/job/template-project/src/lib/review/review.jade",
+		"/home/den/job/template-project/src/lib/date/date.jade",
+		"/home/den/job/template-project/src/lib/header/header.jade",
+		"/home/den/job/tests/test-ratio/src/pages/index.html",
+		"/home/den/.config/sublime-text-3/Packages/User/include.sublime-snippet",
+		"/home/den/.config/sublime-text-3/Packages/User/@import.sublime-snippet",
+		"/home/den/job/template-project/project.sublime-project",
+		"/home/den/job/template-project/src/lib/footer/footer.jade",
+		"/home/den/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/den/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/den/job/template-project/src/style/main-style/main.css",
+		"/home/den/job/template-project/src/blocks/article/article.less",
+		"/home/den/job/template-project/src/main-style/main.less",
+		"/home/den/job/template-project/gulpfile.js",
+		"/home/den/job/template-project/src/index.jade",
+		"/home/den/job/template-project/src/lib/article/article.jade",
+		"/home/den/job/template-project/src/lib/article/article.less",
+		"/home/den/job/template-project/src/main-style/mixins.less",
+		"/home/den/job/template-project/src/blocks/article/article.jade",
+		"/home/den/job/template-project/src/css/variables.css",
+		"/home/den/job/template-project/src/css/blocks/article/article.css",
+		"/home/den/job/template-project/src/css/main.css.map",
+		"/home/den/job/template-project/src/less/main.less",
+		"/home/den/job/template-project/src/css/main/main.css",
+		"/home/den/job/template-project/src/css/blocks/maps/article/article.css.map",
+		"/home/den/job/template-project/src/css/main.css",
+		"/home/den/job/github-pages/db1990.github.io/test-ratio/gulpfile.js",
+		"/home/den/job/template-project/node_modules/source-map/dist/source-map.js",
+		"/home/den/job/template-project/src/less/blocks/article/article.jade",
+		"/home/den/job/template-project/src/less/blocks/article/article.less",
+		"/home/den/job/template-project/build/css/styles.css.map",
+		"/home/den/job/template-project/src/css/mixins.css.map",
+		"/home/den/job/template-project/src/less/mixins.less",
+		"/home/den/job/template-project/src/blocks/header/header.less",
+		"/home/den/job/hittrade/frontend-devil/gulpfile.js",
+		"/home/den/job/template-project/package.json",
+		"/home/den/job/template-project/src/blocks/header/header.jade",
+		"/home/den/job/template-project/src/pages/index.html",
+		"/home/den/job/template-project/src/less/variables.less",
+		"/home/den/job/template-project/src/blocks/footer/footer.jade",
+		"/home/den/job/template-project/src/less/blocks/header/header.less",
+		"/home/den/job/template-project/src/pages/index.jade",
+		"/home/den/job/template-project/build/pages/index.js",
+		"/home/den/job/template-project/build/pages/index.html",
+		"/home/den/job/template-project/src/blocks/date/date.less",
+		"/home/den/job/template-project/src/blocks/header/header.handlebars",
+		"/home/den/job/template-project/src/pages/index.handlebars",
+		"/home/den/job/template-project/build/pages/index.handlebars",
+		"/home/den/job/template-project/src/less/blocks/review/review.less",
+		"/home/den/job/template-project/src/less/blocks/date/date.less",
+		"/home/den/job/template-project/src/css/maps/main.css.map",
+		"/home/den/job/template-project/src/less/style.less",
+		"/home/den/job/template-project/src/js/script.js",
+		"/home/den/job/iec-telecom/css/fonts.css",
+		"/home/den/Загрузки/Test v/css/fonts.less",
+		"/home/den/Загрузки/Test v/css/colorbox.less",
+		"/home/den/Загрузки/Test v/css/media.less",
+		"/home/den/Загрузки/Test v/css/mixins.less",
+		"/home/den/job/template-project/src/stylus/style.styl",
+		"/home/den/.config/sublime-text-3/Packages/List LESS Variables/lessvariables.sublime-settings",
+		"/home/den/.config/sublime-text-3/Packages/User/lessvariables.sublime-settings",
+		"/home/den/job/template-project/src/css/style.css",
+		"/home/den/job/template-project/src/css/style.css.map",
+		"/home/den/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/den/job/github-pages/db1990.github.io/test-ratio/src/pages/index.html",
+		"/home/den/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/den/job/github-pages/db1990.github.io/test-ratio/.gitignore",
+		"/home/den/job/github-pages/db1990.github.io/index.html",
+		"/home/den/job/github-pages/db1990.github.io/README.md",
+		"/home/den/job/tests/ratio/src/stylus/style.styl",
+		"/home/den/job/tests/ratio/src/css/style-stylus.css",
+		"/home/den/job/tests/ratio/src/css/style.css",
+		"/home/den/job/tests/ratio/gulpfile.js",
+		"/home/den/job/tests/ratio/build/css/styles.css",
+		"/home/den/job/tests/racio/gulpfile.js",
+		"/home/den/job/tests/racio/src/css/style.css",
+		"/home/den/job/tests/racio/src/pages/index.html",
+		"/home/den/job/tests/racio/build/css/styles.css",
+		"/home/den/job/tests/racio/src/css/main.css",
+		"/home/den/job/tests/test-sketch/src/pages/index.html",
+		"/home/den/job/tests/test-sketch/build/pages/index.html",
+		"/home/den/job/tests/test-sketch/gulpfile.js",
+		"/home/den/job/github-pages/db1990.github.io/test-sketch/index.html",
+		"/home/den/job/tests/test-sketch/build/js/scripts.min.js",
+		"/home/den/Загрузки/materialize-src/sass/materialize.css",
+		"/home/den/Загрузки/materialize-src/js/bin/materialize.js",
+		"/home/den/job/tests/test-sketch/src/css/project.css",
+		"/home/den/job/tests/test-sketch/src/js/script.js",
+		"/home/den/job/tests/test-sketch/src/js/material-modal.js",
+		"/home/den/Загрузки/materialize-src/js/velocity.min.js",
+		"/home/den/job/tests/test-sketch/build/css/styles.min.css",
+		"/home/den/job/tests/test-sketch/src/css/main.css",
+		"/home/den/job/tests/test-sketch/build/css/styles.css",
+		"/home/den/job/tests/test-sketch/build/pages/pages/index.html",
+		"/home/den/job/tests/test-sketch/src/blocks/logo/logo.html",
+		"/home/den/job/tests/test-sketch/src/blocks/header/header.html",
+		"/home/den/job/tests/test-sketch/src/blocks/header/header.css",
+		"/home/den/job/tests/test-sketch/package.json",
+		"/home/den/job/tests/whyfly/release/index.html",
+		"/home/den/job/tests/test-task/build/pages/index.html",
+		"/home/den/job/tests/test-task/index.html",
+		"/home/den/job/tests/test-task/src/index.html",
+		"/home/den/job/tests/test-task/build/css/styles.css",
+		"/home/den/job/tests/test-task/build/js/scripts.min.css",
+		"/home/den/job/tests/test-task/build/css/styles.min.css",
+		"/home/den/job/tests/test-task/src/css/normalize.css",
+		"/home/den/job/tests/test-task/src/css/grid.css",
+		"/home/den/job/tests/test-task/src/css/main.css",
+		"/home/den/job/tests/test-task/src/blocks/categories/categories.css",
+		"/home/den/job/tests/test-task/src/blocks/clearfix/clearfix.css",
+		"/home/den/job/tests/test-task/build/index.html",
+		"/home/den/job/tests/test-task/build/css/normalize.css",
+		"/home/den/job/tests/test-task/src/css/style.css",
+		"/home/den/job/tests/test-task/build/css/style.css",
+		"/home/den/job/tests/test-task/build/css/styles.css.map",
+		"/home/den/job/tests/test-task/src/blocks/categories.html",
+		"/home/den/job/tests/test-task/package.json",
+		"/home/den/job/tests/test-task/css/style.css",
+		"/home/den/job/tests/test-task/js/script.js",
+		"/home/den/job/tests/test-task/dest/normalize.css"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/kirill/sites/ce.local/web/src/view",
+			"/home/kirill/sites/ce.local/web/src",
+			"/home/kirill/sites/ce.local/web/src/store",
+			"/home/kirill/sites/ce.local/web/src",
+			"/home/kirill/sites/front/src",
+			"/home/kirill/sites/ce.local/web",
+			"/home/kirill/sites/ce.local/web/node_modules/restful.js",
+			"/home/kirill/sites/goods/riot/control/routing_demo",
+			"/home/kirill/sites/site.local/app/modules/admin/views",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/assets",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/web/project",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/views",
+			"/home/kirill/sites/site.local/app/components",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/web/project-blocks",
+			"/home/kirill/sites/site.local/app/web/framework-blocks",
+			"/home/kirill/sites/site.local/app/web/project-blocks",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/web/project-blocks",
+			"/home/kirill/sites/site.local/app/web/framework-blocks",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/web/framework-blocks",
+			"/home/kirill/sites/site.local/app/web/libs",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/assets/local",
+			"/home/kirill/sites/site.local/app/assets",
+			"/home/kirill/sites/site.local/app/web",
+			"/home/kirill/sites/site.local/app/web/framework-blocks",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/components",
+			"/home/kirill/sites/site.local/app/models",
+			"/home/kirill/sites/site.local/app/migrations",
+			"/home/kirill/sites/site.local/app/modules/admin/controllers",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/web/framework-blocks",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/modules/admin/controllers",
+			"/home/kirill/sites/site.local/app/models",
+			"/home/kirill/sites/site.local/app/modules/admin/views",
+			"/home/kirill/sites/site.local/app/modules/admin",
+			"/home/kirill/sites/site.local/app/migrations",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/client",
+			"/home/kirill/sites/site.local/app/models",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/time/app",
+			"/home/kirill/sites/site.local/app",
+			"/home/kirill/sites/site.local/app/assets",
+			"/home/kirill/sites/time/app/vendor/wikibase/data-model-serialization/src/Deserializers",
+			"/home/kirill/sites/time/app/vendor/wikibase/data-model",
+			"/home/kirill/sites/time/app/vendor/data-values",
+			"/home/kirill/sites/time/app/vendor/wikibase",
+			"/home/kirill/sites/site.local/app/client"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"fal",
+			"remove",
+			"connect",
+			";",
+			"}",
+			" {",
+			"<img src=\"img/",
+			"        <img src=\"img",
+			"<img src=\"",
+			"img src=\"",
+			"origin",
+			"velocity",
+			"modal",
+			"rem",
+			" /* 3 */",
+			" /* 2 */",
+			" /* 1 */",
+			"/*!",
+			"60px",
+			"grayscale(100%)",
+			"60px",
+			"translateY(0px)",
+			".sprite-",
+			"<div class=\"category__mask\"></div>",
+			"<button class=\"button button_info\">",
+			"page__main",
+			".",
+			"\n.nav__list",
+			".",
+			".sm",
+			"sm",
+			"valida",
+			"valid",
+			"padding: 0 15px",
+			"color:",
+			"label",
+			"updateTextFields",
+			"TextF",
+			"input",
+			"main",
+			"dropd",
+			"drop",
+			"select-drop",
+			"dropd",
+			"easing",
+			"jQuery.easing",
+			"easing",
+			".dropdown",
+			"dropdown",
+			"Materialize",
+			"Mate",
+			"materi",
+			"select",
+			"today",
+			"$",
+			"content",
+			"input",
+			"forms",
+			"parent",
+			".p",
+			"footer",
+			"nav-wrapper",
+			"bread",
+			"closeOnBgClick",
+			"e",
+			"0;",
+			"0",
+			"footer",
+			"164",
+			"footer",
+			".",
+			"value=\"",
+			"value",
+			"0 10px 0 0",
+			".button",
+			"Подробнее",
+			"after",
+			":hover",
+			".form",
+			"font-family: CaviarDreams;",
+			"CaviarDreams",
+			"class=\"info\">",
+			"info",
+			"3",
+			"1",
+			"flex",
+			"<a href=\"img/slide-1.png\" data-lightbox=\"slide-for\">",
+			"images",
+			"</div>\n                <!-- /.slider__item -->",
+			"<div class=\"slider__item\">",
+			"></span>",
+			"</span>",
+			"\n                  ",
+			":</span>\n",
+			"</span>",
+			"placeholder",
+			"placeholder=\"\"",
+			"<span class=\"profile-data__value\">",
+			"767px",
+			"768px",
+			"984px",
+			".",
+			"479",
+			"0",
+			"10px",
+			"0px",
+			"-10px",
+			"0px",
+			"-1",
+			"-",
+			"60px",
+			"768",
+			"767",
+			".page",
+			" no-repeat",
+			"<div class=\"categories__img\">",
+			"0px",
+			"60px",
+			"100px",
+			"40px",
+			"input",
+			"menu__link",
+			"<img src=\"img/img-dropdown-menu.png\" alt=\"\" class=\"dropdown-menu__img\">",
+			"<img src=\"img/img-dropdown-menu.png\" height=\"45\" width=\"60\" alt=\"\" class=\"dropdown-menu__img\">",
+			"span",
+			"clearfix",
+			"dropdown-menu__img",
+			"====="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n",
+			"/project/img",
+			"use app\\assets\\admin\\CmsAssetBundle;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/lib/header/header.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/lib/main-style/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/den/.config/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/lib/header/header.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Material Theme/langs/Less.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/lib/logo/logo.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Material Theme/langs/Less.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1447,
+								1447
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Material Theme/langs/Gulpfile JS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/css/lib/logo/logo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 247.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/yii_pg.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indexjs",
+				"src/index.js"
+			],
+			[
+				"store",
+				"src/stores.js"
+			],
+			[
+				"/tag.js",
+				"node_modules/riot/lib/browser/tag/tag.js"
+			],
+			[
+				"users-view",
+				"src/view/users/users-view.html"
+			],
+			[
+				"user-row",
+				"web/src/view/user/user-row.html"
+			],
+			[
+				"messs",
+				"web/src/store/mess-store.js"
+			],
+			[
+				"road",
+				"web/src/view/roadmap.html"
+			],
+			[
+				"messphp",
+				"api/models/Mess.php"
+			],
+			[
+				"jsdatadsutils",
+				"web/node_modules/js-data-http/node_modules/axios/lib/utils.js"
+			],
+			[
+				"login",
+				"web/src/view/login.html"
+			],
+			[
+				"yii/web/user",
+				"api/vendor/yiisoft/yii2/web/User.php"
+			],
+			[
+				"isoft/yii2/log/dispatcher.php",
+				"api/vendor/yiisoft/yii2/log/Dispatcher.php"
+			],
+			[
+				"fla",
+				"web/src/css/flaty.css"
+			],
+			[
+				"js-data",
+				"web/node_modules/js-data/dist/js-data.js"
+			],
+			[
+				"web",
+				"api/config/web.php"
+			],
+			[
+				"filters/cors.php",
+				"api/vendor/yiisoft/yii2/filters/Cors.php"
+			],
+			[
+				"indexaction",
+				"api/vendor/yiisoft/yii2/rest/IndexAction.php"
+			],
+			[
+				"action",
+				"api/vendor/yiisoft/yii2/base/Action.php"
+			],
+			[
+				"ratelimitinterface",
+				"api/vendor/yiisoft/yii2/filters/RateLimitInterface.php"
+			],
+			[
+				"ratelimiter",
+				"api/vendor/yiisoft/yii2/filters/RateLimiter.php"
+			],
+			[
+				"webuser",
+				"api/vendor/yiisoft/yii2/web/User.php"
+			],
+			[
+				"modegroup",
+				"models/Group.php"
+			],
+			[
+				"544_add_news_item_im",
+				"migrations/m150707_200544_add_news_item_img.php"
+			],
+			[
+				"newsitem",
+				"models/NewsItem.php"
+			],
+			[
+				"admin/news-item/",
+				"modules/admin/views/news-item/_form.php"
+			],
+			[
+				"/admin/news/view",
+				"modules/admin/views/news/view.php"
+			],
+			[
+				"ootstrap/variable",
+				"1my/libs/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"tstrap/grid",
+				"1my/libs/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss"
+			],
+			[
+				"itemstore",
+				"control/routing_demo/itemstore.js"
+			],
+			[
+				"admin/group/view",
+				"app/modules/admin/views/group/view.php"
+			],
+			[
+				"mopropervale",
+				"app/models/PropertyValue.php"
+			],
+			[
+				"groupproduct",
+				"app/models/GroupProduct.php"
+			],
+			[
+				"filter",
+				"app/models/FilterForm.php"
+			],
+			[
+				"view",
+				"app/components/ViewRenderer.php"
+			],
+			[
+				"libs/checkradio/ion.checkradio.cs",
+				"app/web/libs/checkRadio/ion.checkRadio.css"
+			],
+			[
+				"checkradio",
+				"app/assets/local/CheckRadio.php"
+			],
+			[
+				"projjsc",
+				"app/web/project/js/script.js"
+			],
+			[
+				"settcon",
+				"app/vendor/pheme/yii2-settings/controllers/DefaultController.php"
+			],
+			[
+				"sett",
+				"app/models/Setting.php"
+			],
+			[
+				"settin",
+				"app/vendor/pheme/yii2-settings/models/Setting.php"
+			],
+			[
+				"setti",
+				"app/models/Setting.php"
+			],
+			[
+				"sitecontroller.php",
+				"app/controllers/SiteController.php"
+			],
+			[
+				"sliderfull",
+				"app/web/project-blocks/sliderfullwidth/sliderfullwidth.css"
+			],
+			[
+				"bodycs",
+				"app/web/framework-blocks/body/body.css"
+			],
+			[
+				"/projectasset.php",
+				"app/assets/ProjectAsset.php"
+			],
+			[
+				"admin/form/view",
+				"app/modules/admin/views/form/view.php"
+			],
+			[
+				"b/framework-blocks/map/map.js",
+				"app/web/framework-blocks/map/map.js"
+			],
+			[
+				"ssets/projectasset.php",
+				"app/assets/ProjectAsset.php"
+			],
+			[
+				"responsiveslides",
+				"app/web/project/css/responsiveslides.css"
+			],
+			[
+				"howit",
+				"app/client/slider/howit.handlebars"
+			],
+			[
+				"footer",
+				"app/web/framework-blocks/footer/_footer.handlebars"
+			],
+			[
+				"stallationcontroller.php",
+				"app/controllers/InstallationController.php"
+			],
+			[
+				"site",
+				"controllers/SiteController.php"
+			],
+			[
+				"breadcrum",
+				"web/framework-blocks/breadcrumb/_breadcrumb.handlebars"
+			],
+			[
+				"migrasett",
+				"migrations/m150525_152635_settings_fill.php"
+			],
+			[
+				"_contact",
+				"web/framework-blocks/contact-box/_contact.handlebars"
+			],
+			[
+				"fonta",
+				"assets/local/FontAwesome.php"
+			],
+			[
+				"mapgoogle",
+				"assets/extern/MapGoogle.php"
+			],
+			[
+				"trap-base/js/script.j",
+				"web/will_be_deleted_bootstrap-base/js/script.js"
+			],
+			[
+				"_menu",
+				"app/web/framework-blocks/menu/_menu.handlebars"
+			],
+			[
+				"b/will_be_deleted_bootstrap-base/js/script.js",
+				"app/web/will_be_deleted_bootstrap-base/js/script.js"
+			],
+			[
+				"assets/themeasset.php",
+				"app/assets/ThemeAsset.php"
+			],
+			[
+				"template",
+				"app/client/slider/template.handlebars"
+			],
+			[
+				"_howitworks",
+				"app/web/project-blocks/howitworks/_howitworks.handlebars"
+			],
+			[
+				"eb/will_be_deleted_bootstrap-base/js/script.js",
+				"app/web/will_be_deleted_bootstrap-base/js/script.js"
+			],
+			[
+				"howitworks",
+				"app/web/project-blocks/howitworks/_howitworks.handlebars"
+			],
+			[
+				"9398",
+				"app/web/assets/all-93981a4e5f08dd9c85040137b0a0f5b2.js"
+			],
+			[
+				"client/site/contact.handlebars",
+				"app/client/site/contact.handlebars"
+			],
+			[
+				"yii/web/assetbundle",
+				"app/vendor/yiisoft/yii2/web/AssetBundle.php"
+			],
+			[
+				"laucli",
+				"app/views/layouts/client.php"
+			],
+			[
+				"moothproducts.cs",
+				"app/web/framework-blocks/bootstrap-base/css/smoothproducts.css"
+			],
+			[
+				"locks/bootstrap-base/js/script.js",
+				"app/web/framework-blocks/bootstrap-base/js/script.js"
+			],
+			[
+				"dmin/group/cro",
+				"app/modules/admin/views/group/crop.php"
+			],
+			[
+				"admin/views/group/crop.php",
+				"app/modules/admin/views/group/crop.php"
+			],
+			[
+				"laymain",
+				"app/views/layouts/main.php"
+			],
+			[
+				"themeasset.php",
+				"app/assets/ThemeAsset.php"
+			],
+			[
+				"viewre",
+				"app/components/ViewRenderer.php"
+			],
+			[
+				"lien/gallery",
+				"app/client/gallery/_gallery.handlebars"
+			],
+			[
+				"slider_item_img_fk",
+				"app/migrations/m150609_224413_slider_item_img_FK.php"
+			],
+			[
+				"slider.ha",
+				"app/client/slider/slider.handlebars"
+			],
+			[
+				"query.counterup.min.js",
+				"app/web/project-blocks/js/jquery.counterup.min.js"
+			],
+			[
+				"yiijs",
+				"app/web/assets/d7beb70f/yii.js"
+			],
+			[
+				"form",
+				"app/models/Form.php"
+			],
+			[
+				"submit",
+				"app/models/Submit.php"
+			],
+			[
+				"slid",
+				"app/models/Slider.php"
+			],
+			[
+				"baseview",
+				"app/vendor/yiisoft/yii2/base/View.php"
+			],
+			[
+				"confiwe",
+				"app/config/web.php"
+			],
+			[
+				"slider",
+				"app/controllers/SliderController.php"
+			],
+			[
+				"sitec",
+				"app/controllers/SiteController.php"
+			],
+			[
+				"/base/controller.php",
+				"app/vendor/yiisoft/yii2/base/Controller.php"
+			],
+			[
+				"ase/view.php",
+				"app/vendor/yiisoft/yii2/base/View.php"
+			],
+			[
+				"component",
+				"app/vendor/yiisoft/yii2/base/Component.php"
+			],
+			[
+				"i/base/viewrenderer",
+				"app/vendor/yiisoft/yii2/base/ViewRenderer.php"
+			],
+			[
+				"controller",
+				"app/vendor/yiisoft/yii2/base/Controller.php"
+			],
+			[
+				"formbe",
+				"app/web/framework-blocks/form/_form_begin.handlebars"
+			],
+			[
+				"_form_begin",
+				"app/web/framework-blocks/form/_form_begin.handlebars"
+			],
+			[
+				"min/page/form",
+				"app/modules/admin/views/page/_form.php"
+			],
+			[
+				"dmin/form/view",
+				"app/modules/admin/views/form/view.php"
+			],
+			[
+				"rn/jquery.ph",
+				"app/assets/extern/Jquery.php"
+			],
+			[
+				"s/bootstrap-base/js/script.js",
+				"app/web/framework-blocks/bootstrap-base/js/script.js"
+			],
+			[
+				"bootstrap-base/css/style.css",
+				"app/web/framework-blocks/bootstrap-base/css/style.css"
+			],
+			[
+				"cks/bootstrap-base/js/script.js",
+				"app/web/framework-blocks/bootstrap-base/js/script.js"
+			],
+			[
+				"hs_err_pid21997.log",
+				"app/hs_err_pid21997.log"
+			],
+			[
+				"layou",
+				"app/views/layouts/client.php"
+			],
+			[
+				"yiiwebjq",
+				"app/vendor/yiisoft/yii2/web/JqueryAsset.php"
+			],
+			[
+				"ework-blocks/bootstrap-base/bootstrap/css/bootstrap.min.css",
+				"app/web/framework-blocks/bootstrap-base/bootstrap/css/bootstrap-theme.min.css"
+			],
+			[
+				"assecont",
+				"app/vendor/yiisoft/yii2/console/controllers/AssetController.php"
+			],
+			[
+				"pp/assets/themeas",
+				"app/assets/ThemeAsset.php"
+			],
+			[
+				"p/assets/menuas",
+				"app/assets/MenuAsset.php"
+			],
+			[
+				".gitignore",
+				"app/.gitignore"
+			],
+			[
+				"odules/admin/views/menu-item/_form.php",
+				"app/modules/admin/views/menu-item/_form.php"
+			],
+			[
+				"_menu.handlebars",
+				"app/web/framework-blocks/menu/_menu.handlebars"
+			],
+			[
+				"bem",
+				"app/bem/BemController.php"
+			],
+			[
+				"meniview",
+				"app/modules/admin/views/menu/view.php"
+			],
+			[
+				"nestedsetsbehavior.php",
+				"app/vendor/creocoder/yii2-nested-sets/src/NestedSetsBehavior.php"
+			],
+			[
+				"sortablegridasset",
+				"app/vendor/himiklab/yii2-sortable-grid-view-widget/SortableGridAsset.php"
+			],
+			[
+				"jquery.sortable.gridview.js",
+				"app/vendor/himiklab/yii2-sortable-grid-view-widget/assets/js/jquery.sortable.gridview.js"
+			],
+			[
+				"uery.sortable.gridview.j",
+				"app/web/assets/e34e4434/js/jquery.sortable.gridview.js"
+			],
+			[
+				"menuite",
+				"app/models/MenuItem.php"
+			],
+			[
+				"componentphp",
+				"app/vendor/yiisoft/yii2/base/Component.php"
+			],
+			[
+				"model",
+				"app/vendor/yiisoft/yii2/base/Model.php"
+			],
+			[
+				"groupco",
+				"app/controllers/GroupController.php"
+			],
+			[
+				"prod",
+				"app/models/Product.php"
+			],
+			[
+				"12_settings_and_products",
+				"app/migrations/m150602_204612_settings_and_products.php"
+			],
+			[
+				"yii/web/yiiasset",
+				"app/vendor/yiisoft/yii2/web/YiiAsset.php"
+			],
+			[
+				"admin/menutem",
+				"app/modules/admin/controllers/MenuItemController.php"
+			],
+			[
+				"ole/controllers/assetcontroller.php",
+				"app/vendor/yiisoft/yii2/console/controllers/AssetController.php"
+			],
+			[
+				"config/web.php",
+				"app/config/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sites/ce.local/api/backend.sublime-project"
+			],
+			[
+				"b",
+				"~/sites/ce.local/api/backend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/den/.config/sublime-text-3/Packages/User"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

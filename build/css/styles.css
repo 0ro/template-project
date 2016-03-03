@@ -1,0 +1,32 @@
+/* ============================= START main.css ============================= */
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: '';
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+/*------------------start header-------------------*/
+.header__logo {
+  color: red;
+}
+/*------------------end header---------------------*/
+/*------------------start logo-------------------*/
+.logo {
+  font-size: 12px;
+}
+/*------------------end logo---------------------*/
+/*------------------start review-------------------*/
+/*------------------end review---------------------*/
+/*------------------start date-------------------*/
+/*------------------end date---------------------*/
+
+/*# sourceMappingURL=../../maps/lib/main-style/main.css.map */
+
+/* ============================= END main.css ============================= */
+
+/*# sourceMappingURL=styles.css.map */
