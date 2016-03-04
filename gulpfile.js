@@ -47,7 +47,7 @@ var path = {
 gulp.task('webserver', function () {
   browserSync({
     server: {
-        baseDir: "./build"
+        baseDir: "./"
     },
     tunnel: true,
     host: 'localhost',
@@ -57,8 +57,33 @@ gulp.task('webserver', function () {
 });
 
 gulp.task('jade', function() {
-  gulp.src(path.src.jade)
-    .pipe(jade())
+  var fs = require('fs'),
+    paths = __dirname+'/src/css/lib',
+    cssIgnore = paths+'/'+'main-style',
+    cssDir = [],
+    cssList = [];
+  fs.readdir(paths, function(err, items) {
+    for (var i=0; i<items.length; i++) {
+      var subPaths = paths+'/'+items[i];
+      if(subPaths !== cssIgnore) {
+        cssDir.push(items[i])
+        // fs.readdir(subPaths, function(err, subItems){
+        //   for (var j=0; j<subItems.length; j++) {
+        //     cssList.push(subItems[j])
+        //   }
+        // })
+      }
+    }
+  })
+  return gulp.src(path.src.jade)
+    .pipe(jade(
+      {
+        locals: {
+          'cssDir': cssDir,
+          'cssList': cssList,
+        }
+      }
+    ))
     .pipe(gulp.dest(path.build.jade))
     .pipe(reload({stream: true}));
 });

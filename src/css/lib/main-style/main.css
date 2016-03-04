@@ -9,29 +9,43 @@
 .clearfix {
   zoom: 1;
 }
+* {
+  box-sizing: border-box;
+}
 .page {
-  /**/
-}
-.page__header {
-  /**/
-}
-.page__review {
-  /**/
+  width: 768px;
+  margin: 0 auto;
+  padding: 40px 34px 23px;
 }
 /*------------------start header-------------------*/
 .header {
-  /**/
+  height: 40px;
+  padding: 0 0 30px;
 }
 .header__logo {
-  color: red;
+  float: left;
+  width: 45%;
+  padding: 0 16px 0 0;
 }
 .header__line {
-  /**/
+  float: left;
+  height: 2px;
+  width: 55%;
+  background-color: #000;
 }
 /*------------------end header---------------------*/
 /*------------------start logo-------------------*/
 .logo {
-  font-size: 12px;
+  /**/
+}
+.logo__link {
+  color: #010101;
+  font-family: PlayfairDisplay;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 18px;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 /*------------------end logo---------------------*/
 /*------------------start review-------------------*/
