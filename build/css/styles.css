@@ -10,9 +10,24 @@
 .clearfix {
   zoom: 1;
 }
+.page {
+  /**/
+}
+.page__header {
+  /**/
+}
+.page__review {
+  /**/
+}
 /*------------------start header-------------------*/
+.header {
+  /**/
+}
 .header__logo {
   color: red;
+}
+.header__line {
+  /**/
 }
 /*------------------end header---------------------*/
 /*------------------start logo-------------------*/

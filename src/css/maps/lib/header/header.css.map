@@ -1,1 +1,1 @@
-{"version":3,"sources":["lib/header/header.less"],"names":[],"mappings":"AACE,OAAC;EACC,UAAA","sourcesContent":[".header {\n  &__logo {\n    color: red;\n  }\n  &__line {\n    \n  }\n}"],"file":"lib/header/header.css","sourceRoot":"/source/"}
+{"version":3,"sources":["lib/header/header.less"],"names":[],"mappings":"AAAA;;;AAEE,OAAC;EACC,UAAA;;AAEF,OAAC","sourcesContent":[".header {\n  /**/\n  &__logo {\n    color: red;\n  }\n  &__line {\n    /**/\n  }\n}"],"file":"lib/header/header.css","sourceRoot":"/source/"}

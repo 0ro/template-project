@@ -18,27 +18,30 @@ var gulp = require('gulp'),
 
 var path = {
   build: {
-    html: 'build/',
-    js: 'build/js/',
-    css: 'build/css/',
-    img: 'build/img/',
-    fonts: 'build/fonts/'
+    jade: './build/',
+    js: './build/js/',
+    css: './build/css',
+    less: './src/css/',
+    img: './build/img/',
+    fonts: './build/fonts/'
   },
   src: {
-    html: 'src/*.html',
-    js: 'src/js/main.js',
-    style: 'src/style/main.scss',
-    img: 'src/img/**/*.*',
-    fonts: 'src/fonts/**/*.*'
+    jade: './src/*.jade',
+    js: './src/js/main.js',
+    css: './src/css/lib/main-style/main.css',
+    less: './src/**/*.less',
+    img: './src/img/**/*.*',
+    fonts: './src/fonts/**/*.*'
   },
   watch: {
-    html: 'src/**/*.html',
-    js: 'src/js/**/*.js',
-    style: 'src/style/**/*.scss',
-    img: 'src/img/**/*.*',
-    fonts: 'src/fonts/**/*.*'
+    jade: './src/**/*.jade',
+    js: './src/js/**/*.js',
+    css: './src/css/lib/**/*.css',
+    less: './src/**/*.less',
+    img: './src/img/**/*.*',
+    fonts: './src/fonts/**/*.*'
   },
-  clean: './build'
+  maps: './maps'
 };
 
 gulp.task('webserver', function () {
@@ -48,39 +51,29 @@ gulp.task('webserver', function () {
     },
     tunnel: true,
     host: 'localhost',
-    port: 8888
+    port: 8888,
+    logPrefix: 'frontend-db'
   });
 });
 
 gulp.task('jade', function() {
-  gulp.src('./src/*.jade')
+  gulp.src(path.src.jade)
     .pipe(jade())
-    .pipe(gulp.dest('./build/'))
+    .pipe(gulp.dest(path.build.jade))
     .pipe(reload({stream: true}));
 });
 
 gulp.task('less', function() {
-  gulp.src('src/**/*.less')
+  gulp.src(path.src.less)
     .pipe(sourcemaps.init())
-    .pipe(less({
-      cleancss: false
-      }))
-    .pipe(sourcemaps.write('./maps'))
-    .pipe(gulp.dest('src/css/'))
+    .pipe(less())
+    .pipe(sourcemaps.write(path.maps))
+    .pipe(gulp.dest(path.build.less))
     .pipe(reload({stream: true}));
-
-  // gulp.src('src/less/**/*.less')
-  //   .pipe(sourcemaps.init())
-  //   .pipe(less())
-  //   .pipe(sourcemaps.write('./maps'))
-  //   .pipe(gulp.dest('src/css/main/'))
-  //   .pipe(reload({stream: true}));
-
-  
 })
 
 gulp.task('css', function(){
-  gulp.src('src/css/lib/main-style/main.css')
+  gulp.src(path.src.css)
     .pipe(sourcemaps.init())
     .pipe(postcss([ autoprefixer({ browsers: ['last 20 versions'] }) ]))
     // .pipe(csscomb('src/css/config-csscomb.json'))
@@ -88,44 +81,44 @@ gulp.task('css', function(){
     .pipe(concat.footer('\n/* ============================= END <%= file.relative %> ============================= */\n'))
     .pipe(concat('styles.css'))
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest('./build/css'))
+    .pipe(gulp.dest(path.build.css))
     .pipe(cssmin())
     .pipe(concat('styles.min.css'))
-    .pipe(gulp.dest('./build/css'))
+    .pipe(gulp.dest(path.build.css))
     .pipe(reload({stream: true}));
 })
 gulp.task('img', function () {
-    gulp.src('src/img/**/*.*')
+    gulp.src(path.src.img)
         .pipe(imagemin({
           progressive: true,
           svgoPlugins: [{removeViewBox: false}],
           use: [pngquant()],
           interlaced: true
         }))
-        .pipe(gulp.dest('build/img'))
+        .pipe(gulp.dest(path.build.img))
         .pipe(reload({stream: true}));
 });
 
 gulp.task('fonts', function() {
-    gulp.src('src/fonts/**/*.*')
-        .pipe(gulp.dest('build/fonts'))
+    gulp.src(path.src.fonts)
+        .pipe(gulp.dest(path.build.fonts))
 });
 
 gulp.task('js', function(){
-  return gulp.src('src/js/**/*.js')
+  return gulp.src(path.src.js)
     .pipe(uglify())
     .pipe(concat('scripts.min.js'))
-    .pipe(gulp.dest('./build/js'))
+    .pipe(gulp.dest(path.build.js))
     .pipe(reload({stream: true}));
 });
 
 gulp.task('watch', function () {
-  gulp.watch('src/js/**/*.js', ['js']);
-  gulp.watch(['src/**/*.less'], ['less']);
-  gulp.watch('src/css/lib/**/*.css', ['css']);
-  gulp.watch('src/img/**/*.*', ['img']);
-  gulp.watch('src/fonts/**/*.*', ['fonts']);
-  gulp.watch('src/**/*.jade', ['jade']);
+  gulp.watch(path.watch.js, ['js']);
+  gulp.watch(path.watch.less, ['less']);
+  gulp.watch(path.watch.css, ['css']);
+  gulp.watch(path.watch.img, ['img']);
+  gulp.watch(path.watch.fonts, ['fonts']);
+  gulp.watch(path.watch.jade, ['jade']);
 });
 
 gulp.task('default', ['webserver', 'jade', 'less', 'css', 'img', 'fonts', 'js', 'watch']);
